@@ -11,4 +11,5 @@ In python, we have Flask, which is useful in the tasks of web development of any
 As we are going to deploy chatbot as a web application, so it is not possible to deploy it without the use of HTML and CSS as these two are the primary packages when it comes to the tasks of web development.
 
 ## Flowchart
-![](Screenshot 1.png)
+![](https://github.com/namanbansal01/chatbot-chatterbot/blob/main/Screenshot%201.png)
+![]()
