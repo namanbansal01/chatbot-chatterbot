@@ -10,6 +10,9 @@ Chatterbot is a Python library that generates responses for users. It uses a lot
 In python, we have Flask, which is useful in the tasks of web development of any program. We, will use the flask method to deploy a chatbot.
 As we are going to deploy chatbot as a web application, so it is not possible to deploy it without the use of HTML and CSS as these two are the primary packages when it comes to the tasks of web development.
 
-## Flowchart
+## Screenshots
 ![](https://github.com/namanbansal01/chatbot-chatterbot/blob/main/Screenshot%201.png)
+![](https://github.com/namanbansal01/chatbot-chatterbot/blob/main/Screenshot%202.png)
+
+## Flowchart
 ![]()
